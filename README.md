@@ -1,9 +1,50 @@
-**<div align="center"> 💫 About Me:</div>**
-<br>
-<div align="center">Hallo semua, Selamat datang di kumpulan code-code yang pernah saya pelajari & implementasikan</div>
+<div align="center">
 
-## 🌐 My Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yahmanamby/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/jieamby) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/jieamby) 
+# 👋 Yahman Amby
 
-# 📊 My Stats:
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jieamby&hide_border=true&layout=compact" align="center" /></div>  
+**Full-Stack Developer**  
+Frontend • Backend • DevOps • Mobile • Operational
+
+</div>
+
+---
+
+## 🧑‍💻 About Me
+- 🔭 Mengembangkan dan mengarsipkan implementasi full-stack
+- 🌱 Belajar berkelanjutan lintas teknologi
+- 🧩 Fokus pada solusi end-to-end
+
+---
+
+## 📊 GitHub Stats
+
+![Top Langs](https://stats-github-readme.vercel.app/api/top-langs/?username=jieamby&layout=compact)
+
+---
+
+## 🌐 Connect With Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/yahmanamby/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://x.com/jieamby">
+    <img src="https://img.shields.io/badge/X-000000?style=flat&logo=X&logoColor=white"/>
+  </a>
+  <a href="https://codepen.io/jieamby">
+    <img src="https://img.shields.io/badge/CodePen-000000?style=flat&logo=codepen&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+## 📌 Notes
+Repositori ini akan terus diperbarui seiring dengan perjalanan belajar dan pengembangan saya.  
+Jangan ragu untuk mengeksplorasi, memberi masukan, atau berdiskusi 🙌
+
+---
+
+<div align="center">
+
+✨ *Thank you for visiting my GitHub profile!* ✨
+
+</div>
