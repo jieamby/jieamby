@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Yahman Amby
+# 👋 Yahman Khoiri
 
 **Full-Stack Developer**  
 Frontend • Backend • DevOps • Mobile • Operational
