@@ -1,8 +1,8 @@
 <div align="center">
 
-# 👋 Yahman
+👋 Hi, I'm Yahman
+Full-Stack Developer
 
-**Full-Stack Developer**  
 Frontend • Backend • DevOps • Mobile • Operational
 
 </div>
@@ -10,9 +10,53 @@ Frontend • Backend • DevOps • Mobile • Operational
 ---
 
 ## 🧑‍💻 About Me
-- 🔭 Mengembangkan dan mengarsipkan implementasi full-stack
-- 🌱 Belajar berkelanjutan lintas teknologi
-- 🧩 Fokus pada solusi end-to-end
+- 🔭 Mengembangkan dan mengarsipkan berbagai implementasi full-stack
+- 🌱 Terus belajar dan bereksplorasi lintas teknologi
+- 🧩 Fokus pada solusi end-to-end yang rapi, fungsional, dan maintainable
+- 💡 Tertarik pada pengembangan frontend modern, logic development, dan deployment workflow
+
+---
+
+## 🛠 Tech Focus
+
+<div align="center">
+
+<table>
+  <tr>
+    <td valign="top" width="33%">
+
+### Frontend
+
+* React
+* Vite
+* Tailwind CSS
+* JavaScript
+* HTML / CSS
+
+</td>
+    <td valign="top" width="33%">
+
+### Backend / Logic
+
+* Python
+* Java
+* Kotlin
+* Dart
+
+</td>
+    <td valign="top" width="33%">
+
+### Workflow & Tools
+
+* Git
+* GitHub
+* VS Code
+
+</td>
+  </tr>
+</table>
+
+</div>
 
 ---
 
