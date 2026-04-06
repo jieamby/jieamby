@@ -29,12 +29,6 @@ Frontend • Backend • DevOps • Mobile • Operational
 
 ---
 
-## 📊 GitHub Stats
-
-![Top Langs](https://stats-github-readme.vercel.app/api/top-langs/?username=jieamby&layout=compact)
-
----
-
 ## 🌐 Connect With Me
 <p align="center">
   <a href="https://www.linkedin.com/in/yahmanamby/">
