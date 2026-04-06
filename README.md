@@ -21,40 +21,9 @@ Frontend • Backend • DevOps • Mobile • Operational
 
 <div align="center">
 
-<table>
-  <tr>
-    <td valign="top" width="33%">
+### Languages & Technologies (Auto from GitHub)
 
-### Frontend
-
-* React
-* Vite
-* Tailwind CSS
-* JavaScript
-* HTML / CSS
-
-</td>
-    <td valign="top" width="33%">
-
-### Backend / Logic
-
-* Python
-* Java
-* Kotlin
-* Dart
-
-</td>
-    <td valign="top" width="33%">
-
-### Workflow & Tools
-
-* Git
-* GitHub
-* VS Code
-
-</td>
-  </tr>
-</table>
+<img src="https://stats-github-readme.vercel.app/api/top-langs/?username=jieamby&layout=compact" />
 
 </div>
 
