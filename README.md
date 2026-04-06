@@ -50,6 +50,20 @@ Jangan ragu untuk mengeksplorasi, memberi masukan, atau berdiskusi 🙌
 
 ---
 
+## ☕ Support My Work
+
+<p align="center">
+  If my projects or code help your work, feel free to support me 🙌
+</p>
+
+<p align="center">
+  <a href="https://trakteer.id/jieamby2" target="_blank">
+    <img src="https://img.shields.io/badge/Trakteer-Support%20Me-red?style=for-the-badge" />
+  </a>
+</p>
+
+---
+
 <div align="center">
 
 ✨ *Thank you for visiting my GitHub profile!* ✨
