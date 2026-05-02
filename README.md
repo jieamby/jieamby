@@ -7,16 +7,6 @@ Frontend • Backend • DevOps • Mobile • Operational
 
 </div>
 
----
-
-## 🧑‍💻 About Me
-- 🔭 Mengembangkan dan mengarsipkan berbagai implementasi full-stack
-- 🌱 Terus belajar dan bereksplorasi lintas teknologi
-- 🧩 Fokus pada solusi end-to-end yang rapi, fungsional, dan maintainable
-- 💡 Tertarik pada pengembangan frontend modern, logic development, dan deployment workflow
-
----
-
 ## 🛠 Tech Focus
 
 <div align="center">
